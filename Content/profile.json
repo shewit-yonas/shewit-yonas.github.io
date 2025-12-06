@@ -1,48 +1,48 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
+  "Name": "Shewit Yonas",
+  "Currently": "Mechanical Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
+  "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
+ },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
+  "EMail": "shewityonas367@gmail.com",
   "Phone": "(206) 555-5555",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "LinkedIn": "https://linkedin.com/in/shewit-yonas",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles. I enjoy combining technical ability with communication and project leadership, and I am actively developing my engineering skillset through internships and hands-on projects.",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Major": "Mechanical Engineering",
+  "Graduation": "December 2026",
+  "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA and am a recipient of the Full Tuition Distinguished Scholar Award.",
+  "Employment": "Furtado & Associates",
+  "Role": "Engineering Intern",
+  "EmploymentText": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisition projects. I gained valuable experience in AutoCAD, technical documentation, and working with real-world engineering constraints.",
+  "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
+  "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
+  "Resume": "ShewitYonas-Resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+   "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
+    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+   "Title": "Prosthetic Hand Prototype",
+    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation. Assembled and integrated with the electrical control system.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+   "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
+    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system efficiency.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
     "DetailImages": []
