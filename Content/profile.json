@@ -26,7 +26,7 @@
     "EmploymentText": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisition projects. I gained valuable experience in AutoCAD, technical documentation, and working with real-world engineering constraints.",
     "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
     "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
-    "Resume": "ShewitYonas-Resume.pdf"
+    "Resume": "Shewit_Yonas_Resume.pdf"
   },
 
   "Project1": {
@@ -34,7 +34,7 @@
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning. Currently working on CAD model of solar panel deployment system.",
     "GitHubRepo": "",
     "MainImage": "SoulUmbraMain.png",
-    "DetailImages": ["SoulUmbra1.png", "SoulUmbra2.png", "SoulUmbra3.png"]
+    "DetailImages": ["Displacement.png", "Interference Detection.png", "SoulUmbra3.png"]
   },
 
   "Project2": {
