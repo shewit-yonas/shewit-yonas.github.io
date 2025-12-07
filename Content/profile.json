@@ -19,13 +19,38 @@
   "Major": "Mechanical Engineering",
   "Graduation": "December 2026",
   "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA and am a recipient of the Full Tuition Distinguished Scholar Award.",
-  "Employment": "Furtado & Associates",
-  "Role": "Engineering Intern",
-  "EmploymentText": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisition projects. I gained valuable experience in AutoCAD, technical documentation, and working with real-world engineering constraints.",
-  "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
-  "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
-  "Resume": "ShewitYonas-Resume.pdf"  
+ "EmploymentHistory": [
+      {
+        "Employer": "Furtado & Associates",
+        "Role": "Engineering Intern",
+        "Dates": "June 2025 – August 2025",
+        "Location": "Seattle, WA",
+        "Description": "Produced 50+ 2D and 3D CAD drawings from land survey data using AutoCAD. Drafted and QC-checked 20 parcel maps for Sound Transit Light Rail expansion. Researched legal documents and wrote 20+ legal descriptions for easements and land acquisitions."
+      },
+      {
+        "Employer": "South Seattle College – Writing Center",
+        "Role": "English Tutor",
+        "Dates": "January 2023 – June 2024",
+        "Location": "Seattle, WA",
+        "Description": "Tutored ELL students in reading, writing, and conversational English. Coordinated schedules for multiple tutors per shift. Created targeted writing improvement plans using analysis of student work across academic subjects."
+      },
+      {
+        "Employer": "Port of Seattle",
+        "Role": "Green Jobs Summer Intern",
+        "Dates": "July 2022 – August 2022",
+        "Location": "Seattle, WA",
+        "Description": "Planned and proposed a summer program to educate teens about environmental initiatives and green careers. Participated in environmental restoration projects including kelp transplantation and invasive ivy removal. Led meetings and conducted career development interviews."
+      }
+    ],
 },
+
+     "Leadership": {
+      "Organization": "National Society of Black Engineers (NSBE)",
+      "Position": "Vice President",
+      "Dates": "September 2025 – Present",
+      "Details": "Lead weekly professional development meetings for 20 members covering résumé workshops, industry Q&A sessions, and interview preparation. Represent NSBE on the STEM Student Council Board, coordinate cross-club collaborations, and help plan engineering outreach and campus events."
+    },
+  
 "Project1": {
    "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning.",
