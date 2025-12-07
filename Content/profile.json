@@ -20,38 +20,38 @@
   "Graduation": "December 2026",
   "EducationText": "My engineering education includes coursework in system dynamics, thermodynamics, fluid mechanics, CAD, heat transfer, and mechanical design. I maintain a 3.95 GPA and received the Full Tuition Distinguished Scholar Award.",
   "Employment": "Furtado & Associates (Jun 2025 – Aug 2025); South Seattle College Writing Center (Jan 2023 – Jun 2024); Port of Seattle (Jul 2022 – Aug 2022)",
-  "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
-  "EmploymentText": "Furtado & Associates — Engineering Intern (Jun 2025 – Aug 2025): Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit projects. Wrote legal descriptions for easements and acquisitions.<br><br>South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024): Tutored ELL students in English communication and writing. Coordinated tutor schedules and created targeted writing improvement plans.<br><br>Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022): Created a summer youth program on environmental initiatives, performed restoration work including kelp transplantation and ivy removal, and led meetings/interviews with Port staff.",
+  "Role": "Engineering Intern",
+  "EmploymentText": "Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit projects. Wrote legal descriptions for easements and acquisitions.<br><br>South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024): Tutored ELL students in English communication and writing. Coordinated tutor schedules and created targeted writing improvement plans.<br><br>Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022): Created a summer youth program on environmental initiatives, performed restoration work including kelp transplantation and ivy removal, and led meetings/interviews with Port staff.",
   "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
   "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation.",
   "Resume": "Shewit_Yonas_Resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "SolUmbra — Semi-Autonomous Solar Energy Robot",
+    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "SolUmbra Concept.png",
+    "DetailImages": ["Displacement.png","Interference Detection.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": Prosthetic Hand Prototype",
+    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation,
     "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "MainImage": "hand prototype.png",
+    "DetailImages": ["cuff.png", "hand cad.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
+    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance.,
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "MainImage": "matlab code.png",
+    "DetailImages": ["matlab code ex 1.png", "matlab code ex 2.png"]
   },
   "Project4": {
-    "Title": "",
-    "Desc": "",
+    "Title": "NSBE Leadership — Vice President",
+    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, organized travel to an out of state conference, and represent NSBE on the board of student leaders of the STEM Building at SPUStudent Council",
     "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
+    "MainImage": "nsbe at conference.png",
+    "DetailImages": ["nsbe q&a.png"]
   }
 }
