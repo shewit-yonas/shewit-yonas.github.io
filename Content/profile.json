@@ -1,63 +1,80 @@
 {
-"About": {
-  "Name": "Shewit Yonas",
-  "Currently": "Mechanical Engineering Student",
-  "Headshot": "headshot.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
+  "About": {
+    "Name": "Shewit Yonas",
+    "Currently": "Mechanical Engineering Student",
+    "Headshot": "headshot.png",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work..."
   },
-"Contact": {
-  "EMail": "shewityonas367@gmail.com",
-  "Phone": "",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com/in/shewit-yonas",
-  "GitHub": "https://www.github.com"
-},
-"Experience": {
-   "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles. I enjoy combining technical ability with communication and project leadership, and I am actively developing my engineering skillset through internships and hands-on projects.",
+  "Contact": {
+    "EMail": "shewityonas367@gmail.com",
+    "Phone": "",
+    "Portfolio": "https://www.github.com",
+    "LinkedIn": "https://linkedin.com/in/shewit-yonas",
+    "GitHub": "https://www.github.com"
+  },
+  "Experience": {
+    "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles.",
     "School": "Seattle Pacific University",
     "Major": "Mechanical Engineering",
     "Graduation": "December 2026",
-    "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA and am a recipient of the Full Tuition Distinguished Scholar Award.",
-    "Employment": "Furtado & Associates",
-    "Role": "Engineering Intern",
-    "EmploymentText": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisition projects. I gained valuable experience in AutoCAD, technical documentation, and working with real-world engineering constraints.",
-    "Employment": "South Seattle College – Writing Center",
-    "Role": "English Tutor",
-    "EmploymentText": "At the South Seattle College Writing Center, I tutored English language learners in reading, writing, and conversation while coordinating tutor schedules to support daily operations. I also developed targeted writing improvement plans based on student needs, strengthening my communication and mentorship skills."
-    "Employment": "Port of Seattle",
-    "Role": "Green Jobs Summer Intern",
-    "EmploymentText": "At the Port of Seattle, I helped plan an educational program teaching teens about environmental initiatives and Green Jobs careers. I participated in restoration work, including kelp transplanting and invasive plant removal, and led meetings and interviews with Port employees. This role improved my teamwork, leadership, and environmental project experience."
-    "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
-    "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
+    "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA...",
+    "Employment1": "Furtado & Associates",
+    "Role1": "Engineering Intern",
+    "EmploymentText1": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisitions...",
+    "Employment2": "South Seattle College – Writing Center",
+    "Role2": "English Tutor",
+    "EmploymentText2": "At the South Seattle College Writing Center, I tutored English language learners in reading, writing, and conversation while coordinating tutor schedules...",
+    "Employment3": "Port of Seattle",
+    "Role3": "Green Jobs Summer Intern",
+    "EmploymentText3": "At the Port of Seattle, I helped plan an educational program teaching teens about environmental initiatives and Green Jobs careers and participated in restoration work...",
+    "Skills": [
+      "SolidWorks",
+      "MATLAB",
+      "AutoCAD Civil 3D",
+      "Microsoft Office",
+      "Bluebeam"
+    ],
+    "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation.",
     "Resume": "Shewit_Yonas_Resume.pdf"
-},
-"Project1": {
+  },
+  "Project1": {
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
-    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning. Currently working on CAD model of solar panel deployment system.",
+    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection...",
     "GitHubRepo": "",
     "MainImage": "SolUmbra Concept.png",
-    "DetailImages": ["Displacement.png", "Interference Detection.png"]
+    "DetailImages": [
+      "Displacement.png",
+      "Interference Detection.png"
+    ]
   },
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
-    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation. Assembled and integrated with the electrical control system.",
+    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation...",
     "GitHubRepo": "",
     "MainImage": "hand prototype.png",
-    "DetailImages": ["cuff.png", "hand cad.png"]
+    "DetailImages": [
+      "cuff.png",
+      "hand cad.png"
+    ]
   },
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
-    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system efficiency.",
+    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance...",
     "GitHubRepo": "",
     "MainImage": "matlab code.png",
-    "DetailImages": ["matlab code ex 1.png","matlab code ex 2.png"]
+    "DetailImages": [
+      "matlab code ex 1.png",
+      "matlab code ex 2.png"
+    ]
   },
   "Project4": {
     "Title": "NSBE Leadership — Vice President",
-    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council. Organized resume workshops, Q&A panels, travel to out of state conferences and cross-club engineering initiatives.",
+    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council...",
     "GitHubRepo": "",
     "MainImage": "nsbe at conference.png",
-    "DetailImages": ["nsbe q&a.png"]
+    "DetailImages": [
+      "nsbe q&a.png"
+    ]
   }
 }
