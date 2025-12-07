@@ -4,7 +4,7 @@
     "Currently": "Mechanical Engineering Student",
     "Headshot": "headshot.png",
     "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work..."
+    "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
   },
   "Contact": {
     "EMail": "shewityonas367@gmail.com",
@@ -14,20 +14,20 @@
     "GitHub": "https://www.github.com"
   },
   "Experience": {
-    "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles.",
+    "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental projects, and academic support roles. I enjoy combining technical ability with communication and leadership, and I am actively growing my engineering skillset through internships and hands-on design work.",
     "School": "Seattle Pacific University",
     "Major": "Mechanical Engineering",
     "Graduation": "December 2026",
-    "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA...",
-    "Employment1": "Furtado & Associates",
-    "Role1": "Engineering Intern",
-    "EmploymentText1": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisitions...",
-    "Employment2": "South Seattle College – Writing Center",
-    "Role2": "English Tutor",
-    "EmploymentText2": "At the South Seattle College Writing Center, I tutored English language learners in reading, writing, and conversation while coordinating tutor schedules...",
-    "Employment3": "Port of Seattle",
-    "Role3": "Green Jobs Summer Intern",
-    "EmploymentText3": "At the Port of Seattle, I helped plan an educational program teaching teens about environmental initiatives and Green Jobs careers and participated in restoration work...",
+    "EducationText": "My engineering education includes coursework in system dynamics, thermodynamics, fluid mechanics, CAD, heat transfer, and mechanical design. I maintain a 3.95 GPA and received the Full Tuition Distinguished Scholar Award.",
+    "Employment": "Furtado & Associates",
+    "Role": "Engineering Intern",
+    "EmploymentText": "At Furtado & Associates, I produced 50+ 2D and 3D CAD drawings from land survey data using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit Light Rail expansion. Researched legal records and wrote legal descriptions for Sound Transit's land acquisitions.",
+    "Employment": "South Seattle College – Writing Center",
+    "Role": "English Tutor",
+    "EmploymentText": "At the South Seattle College Writing Center, I tutored ELL students, coordinated tutor schedules, and developed targeted writing improvement plans across multiple academic subjects.",
+    "Employment": "Port of Seattle",
+    "Role": "Green Jobs Summer Intern",
+    "EmploymentText": "At the Port of Seattle, I helped plan an educational program teaching teens about environmental initiatives and Green Jobs careers, participated in environmental restoration work, led meetings, and conducted career development interviews.",
     "Skills": [
       "SolidWorks",
       "MATLAB",
