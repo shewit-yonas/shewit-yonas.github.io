@@ -24,53 +24,36 @@
     "Employment": "Furtado & Associates (Jun 2025 – Aug 2025); South Seattle College Writing Center (Jan 2023 – Jun 2024); Port of Seattle (Jul 2022 – Aug 2022)",
     "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
     "EmploymentText": "Furtado & Associates — Engineering Intern (Jun 2025 – Aug 2025): Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit projects. Wrote legal descriptions for easements and acquisitions.<br><br>South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024): Tutored ELL students in English communication and writing. Coordinated tutor schedules and created targeted writing improvement plans.<br><br>Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022): Created a summer youth program on environmental initiatives, performed restoration work including kelp transplantation and ivy removal, and led meetings/interviews with Port staff."
-    "Skills": [
-      "SolidWorks",
-      "MATLAB",
-      "AutoCAD Civil 3D",
-      "Microsoft Office",
-      "Bluebeam"
-    ],
+    "Skills": ["SolidWorks","MATLAB","AutoCAD Civil 3D","Microsoft Office","Bluebeam"],
     "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation.",
     "Resume": "Shewit_Yonas_Resume.pdf"
   },
   "Project1": {
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection...",
-    "GitHubRepo": "",
+    "GitHubRepo": "https://github.com",
     "MainImage": "SolUmbra Concept.png",
-    "DetailImages": [
-      "Displacement.png",
-      "Interference Detection.png"
-    ]
+    "DetailImages": ["Displacement.png","Interference Detection.png"]
   },
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
     "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation...",
-    "GitHubRepo": "",
+    "GitHubRepo": "https://github.com",
     "MainImage": "hand prototype.png",
-    "DetailImages": [
-      "cuff.png",
-      "hand cad.png"
-    ]
+    "DetailImages": ["cuff.png","hand cad.png"]
   },
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
     "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance...",
-    "GitHubRepo": "",
+    "GitHubRepo": "https://github.com",
     "MainImage": "matlab code.png",
-    "DetailImages": [
-      "matlab code ex 1.png",
-      "matlab code ex 2.png"
-    ]
+    "DetailImages": ["matlab code ex 1.png","matlab code ex 2.png"]
   },
   "Project4": {
     "Title": "NSBE Leadership — Vice President",
     "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council...",
-    "GitHubRepo": "",
+    "GitHubRepo": "https://github.com",
     "MainImage": "nsbe at conference.png",
-    "DetailImages": [
-      "nsbe q&a.png"
-    ]
+    "DetailImages": ["nsbe q&a.png"]
   }
 }
