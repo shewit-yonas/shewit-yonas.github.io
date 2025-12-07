@@ -31,7 +31,7 @@
 
   "Project1": {
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
-    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning.",
+    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning. Currently working on CAD model of solar panel deployment system.",
     "GitHubRepo": "",
     "MainImage": "SoulUmbraMain.png",
     "DetailImages": ["SoulUmbra1.png", "SoulUmbra2.png", "SoulUmbra3.png"]
