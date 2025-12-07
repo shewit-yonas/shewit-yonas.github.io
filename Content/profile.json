@@ -33,16 +33,16 @@
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning. Currently working on CAD model of solar panel deployment system.",
     "GitHubRepo": "",
-    "MainImage": "SoulUmbraMain.png",
-    "DetailImages": ["Displacement.png", "Interference Detection.png", "SoulUmbra3.png"]
+    "MainImage": "SolUmbra Concept.png",
+    "DetailImages": ["Displacement.png", "Interference Detection.png"]
   },
 
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
     "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation. Assembled and integrated with the electrical control system.",
     "GitHubRepo": "",
-    "MainImage": "ProstheticMain.png",
-    "DetailImages": ["ProstheticDetail1.png", "ProstheticDetail2.png", "ProstheticDetail3.png"]
+    "MainImage": "hand prototype.png",
+    "DetailImages": ["cuff.png", "hand cad.png"]
   },
 
   "Project3": {
