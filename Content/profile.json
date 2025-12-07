@@ -19,16 +19,18 @@
     "Major": "Mechanical Engineering",
     "Graduation": "December 2026",
     "EducationText": "My engineering education includes coursework in system dynamics, thermodynamics, fluid mechanics, CAD, heat transfer, and mechanical design. I maintain a 3.95 GPA and received the Full Tuition Distinguished Scholar Award.",
-    "Employment": "Furtado & Associates",
-    "Role": "Engineering Intern",
-    "EmploymentText": "At Furtado & Associates, I produced 50+ 2D and 3D CAD drawings from land survey data using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit Light Rail expansion. Researched legal records and wrote legal descriptions for Sound Transit's land acquisitions.",
-    "Employment": "South Seattle College – Writing Center",
-    "Role": "English Tutor",
-    "EmploymentText": "At the South Seattle College Writing Center, I tutored ELL students, coordinated tutor schedules, and developed targeted writing improvement plans across multiple academic subjects.",
-    "Employment": "Port of Seattle",
-    "Role": "Green Jobs Summer Intern",
-    "EmploymentText": "At the Port of Seattle, I helped plan an educational program teaching teens about environmental initiatives and Green Jobs careers, participated in environmental restoration work, led meetings, and conducted career development interviews.",
-    "Skills": [
+    "Employment": "Furtado & Associates; South Seattle College Writing Center; Port of Seattle",
+    "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
+    "EmploymentText": 
+    "Furtado & Associates — Engineering Intern (Jun 2025 – Aug 2025):<br>
+    Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit. Researched legal documents and wrote 20+ legal descriptions for easements and land acquisitions.<br><br>
+
+    South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024):<br>
+    Tutored ELL students, coordinated tutor schedules, and created targeted writing improvement plans across multiple subjects.<br><br>
+
+    Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022):<br>
+    Proposed an educational program about environmental initiatives, participated in restoration work (kelp transplanting, ivy removal), led meetings, and conducted professional interviews."
+ "Skills": [
       "SolidWorks",
       "MATLAB",
       "AutoCAD Civil 3D",
