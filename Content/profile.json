@@ -55,8 +55,8 @@
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
     "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system efficiency.",
     "GitHubRepo": "",
-    "MainImage": "ACMain.png",
-    "DetailImages": ["ACDetail1.png","ACDetail2.png"]
+    "MainImage": "matlab code.png",
+    "DetailImages": ["matlab code ex 1.png","matlab code ex 2.png"]
   },
 
   "Project4": {
