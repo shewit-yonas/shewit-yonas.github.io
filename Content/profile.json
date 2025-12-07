@@ -1,59 +1,57 @@
 {
-  "About": {
-    "Name": "Shewit Yonas",
-    "Currently": "Mechanical Engineering Student",
-    "Headshot": "headshot.png",
-    "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
-  },
-  "Contact": {
-    "EMail": "shewityonas367@gmail.com",
-    "Phone": "",
-    "Portfolio": "https://www.github.com",
-    "LinkedIn": "https://linkedin.com/in/shewit-yonas",
-    "GitHub": "https://www.github.com"
-  },
-  "Experience": {
-    "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental projects, and academic support roles. I enjoy combining technical ability with communication and leadership, and I am actively growing my engineering skillset through internships and hands-on design work.",
-    "School": "Seattle Pacific University",
-    "Major": "Mechanical Engineering",
-    "Graduation": "December 2026",
-    "EducationText": "My engineering education includes coursework in system dynamics, thermodynamics, fluid mechanics, CAD, heat transfer, and mechanical design. I maintain a 3.95 GPA and received the Full Tuition Distinguished Scholar Award.",
-    "Employment": "Furtado & Associates; South Seattle College Writing Center; Port of Seattle",
-    "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
-    "Employment": "Furtado & Associates (Jun 2025 – Aug 2025); South Seattle College Writing Center (Jan 2023 – Jun 2024); Port of Seattle (Jul 2022 – Aug 2022)",
-    "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
-    "EmploymentText": "Furtado & Associates — Engineering Intern (Jun 2025 – Aug 2025): Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit projects. Wrote legal descriptions for easements and acquisitions.<br><br>South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024): Tutored ELL students in English communication and writing. Coordinated tutor schedules and created targeted writing improvement plans.<br><br>Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022): Created a summer youth program on environmental initiatives, performed restoration work including kelp transplantation and ivy removal, and led meetings/interviews with Port staff."
-    "Skills": ["SolidWorks","MATLAB","AutoCAD Civil 3D","Microsoft Office","Bluebeam"],
-    "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation.",
-    "Resume": "Shewit_Yonas_Resume.pdf"
-  },
-  "Project1": {
-    "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
-    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection...",
+"About": {
+  "Name": "Shewit Yonas",
+  "Currently": "Mechanical Engineering Student",
+  "Headshot": "headshot.png",
+  "Thumbnail": "student-logo.webp",
+  "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
+},
+"Contact": {
+  "EMail": "shewityonas367@gmail.com",
+  "Phone": "(206) 850-4877",
+  "Portfolio": "https://www.github.com",
+  "LinkedIn": "https://linkedin.com/in/shewit-yonas",
+  "GitHub": "https://www.github.com"
+},
+"Experience": {
+  "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental projects, and academic support roles. I enjoy combining technical ability with communication and leadership, and I am actively growing my engineering skillset through internships and hands-on design work.",
+  "School": "Seattle Pacific University",
+  "Major": "Mechanical Engineering",
+  "Graduation": "December 2026",
+  "EducationText": "My engineering education includes coursework in system dynamics, thermodynamics, fluid mechanics, CAD, heat transfer, and mechanical design. I maintain a 3.95 GPA and received the Full Tuition Distinguished Scholar Award.",
+  "Employment": "Furtado & Associates (Jun 2025 – Aug 2025); South Seattle College Writing Center (Jan 2023 – Jun 2024); Port of Seattle (Jul 2022 – Aug 2022)",
+  "Role": "Engineering Intern; English Tutor; Green Jobs Summer Intern",
+  "EmploymentText": "Furtado & Associates — Engineering Intern (Jun 2025 – Aug 2025): Produced 50+ 2D and 3D CAD drawings using AutoCAD. Drafted and QC-checked parcel maps for Sound Transit projects. Wrote legal descriptions for easements and acquisitions.<br><br>South Seattle College Writing Center — English Tutor (Jan 2023 – Jun 2024): Tutored ELL students in English communication and writing. Coordinated tutor schedules and created targeted writing improvement plans.<br><br>Port of Seattle — Green Jobs Summer Intern (Jul 2022 – Aug 2022): Created a summer youth program on environmental initiatives, performed restoration work including kelp transplantation and ivy removal, and led meetings/interviews with Port staff.",
+  "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
+  "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation.",
+  "Resume": "Shewit_Yonas_Resume.pdf"  
+},
+"Project1": {
+    "Title": "Interesting Project 1",
+    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "SolUmbra Concept.png",
-    "DetailImages": ["Displacement.png","Interference Detection.png"]
+    "MainImage": "P1Main.png",
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Prosthetic Hand Prototype",
-    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation...",
+    "Title": "Interesting Project 2",
+    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "hand prototype.png",
-    "DetailImages": ["cuff.png","hand cad.png"]
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
-    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance...",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "matlab code.png",
-    "DetailImages": ["matlab code ex 1.png","matlab code ex 2.png"]
+    "Title": "Interesting Project 3",
+    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "",
+    "MainImage": "P3Main.png",
+    "DetailImages": []
   },
   "Project4": {
-    "Title": "NSBE Leadership — Vice President",
-    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council...",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "nsbe at conference.png",
-    "DetailImages": ["nsbe q&a.png"]
+    "Title": "",
+    "Desc": "",
+    "GitHubRepo": "",
+    "MainImage": "",
+    "DetailImages": []
   }
 }
