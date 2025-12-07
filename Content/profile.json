@@ -2,17 +2,17 @@
   "About": {
     "Name": "Shewit Yonas",
     "Currently": "Mechanical Engineering Student",
-    "Headshot": "student-portrait.png",
-    "Thumbnail": "student-logo.webp",
-    "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
+    "Headshot": "shewit-portrait.png",
+    "Thumbnail": "shewit-logo.webp",
+    "AboutText": "Hi, I’m Shewit Yonas — a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
   },
 
   "Contact": {
     "EMail": "shewityonas367@gmail.com",
-    "Phone": "(206) 555-5555",
+    "Phone": "",
     "Portfolio": "https://www.github.com",
     "LinkedIn": "https://linkedin.com/in/shewit-yonas",
-    "GitHub": "https://github.com"
+    "GitHub": "https://www.github.com"
   },
 
   "Experience": {
@@ -21,67 +21,43 @@
     "Major": "Mechanical Engineering",
     "Graduation": "December 2026",
     "EducationText": "My engineering education includes rigorous coursework across design, thermodynamics, mechanics, heat transfer, systems modeling, and technical communication. I maintain a 3.95 GPA and am a recipient of the Full Tuition Distinguished Scholar Award.",
-    "Employment": [
-      {
-        "Employer": "Furtado & Associates",
-        "Role": "Engineering Intern",
-        "Dates": "June 2025 – August 2025",
-        "Location": "Seattle, WA",
-        "Description": "Produced 50+ 2D and 3D CAD drawings from land survey data using AutoCAD. Drafted and QC-checked 20 parcel maps for Sound Transit Light Rail expansion. Researched legal documents and wrote 20+ legal descriptions for easements and land acquisitions."
-      },
-      {
-        "Employer": "South Seattle College – Writing Center",
-        "Role": "English Tutor",
-        "Dates": "January 2023 – June 2024",
-        "Location": "Seattle, WA",
-        "Description": "Tutored ELL students in reading, writing, and conversational English. Coordinated schedules for multiple tutors per shift. Created targeted writing improvement plans using analysis of student work across academic subjects."
-      },
-      {
-        "Employer": "Port of Seattle",
-        "Role": "Green Jobs Summer Intern",
-        "Dates": "July 2022 – August 2022",
-        "Location": "Seattle, WA",
-        "Description": "Planned and proposed a summer program to educate teens about environmental initiatives and green careers. Participated in environmental restoration projects including kelp transplantation and invasive ivy removal. Led meetings and conducted career development interviews."
-      }
-    ]
-  },
-
-  "Leadership": {
-    "Organization": "National Society of Black Engineers (NSBE)",
-    "Position": "Vice President",
-    "Dates": "September 2025 – Present",
-    "Details": "Lead weekly professional development meetings for 20 members covering résumé workshops, industry Q&A sessions, and interview preparation. Represent NSBE on the STEM Student Council Board, coordinate cross-club collaborations, and help plan engineering outreach and campus events."
+    "Employment": "Furtado & Associates",
+    "Role": "Engineering Intern",
+    "EmploymentText": "At Furtado & Associates, I produced CAD drawings from land survey data, performed QC checks for land development documents, and wrote legal descriptions for Sound Transit acquisition projects. I gained valuable experience in AutoCAD, technical documentation, and working with real-world engineering constraints.",
+    "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
+    "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
+    "Resume": "ShewitYonas-Resume.pdf"
   },
 
   "Project1": {
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
+    "GitHubRepo": "",
+    "MainImage": "SoulUmbraMain.png",
+    "DetailImages": ["SoulUmbra1.png", "SoulUmbra2.png", "SoulUmbra3.png"]
   },
 
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
     "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation. Assembled and integrated with the electrical control system.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png", "P2Detail2.png", "P2Detail3.png", "P2Detail4.png"]
+    "GitHubRepo": "",
+    "MainImage": "ProstheticMain.png",
+    "DetailImages": ["ProstheticDetail1.png", "ProstheticDetail2.png", "ProstheticDetail3.png"]
   },
 
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
     "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system efficiency.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "MainImage": "ACMain.png",
+    "DetailImages": ["ACDetail1.png","ACDetail2.png"]
   },
 
   "Project4": {
-    "Title": "",
-    "Desc": "",
+    "Title": "NSBE Leadership — Vice President",
+    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council. Organized resume workshops, Q&A panels, and cross-club engineering initiatives.",
     "GitHubRepo": "",
-    "MainImage": "",
+    "MainImage": "NSBEMain.png",
     "DetailImages": []
   }
 }
