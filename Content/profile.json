@@ -1,22 +1,20 @@
 {
-  "About": {
-    "Name": "Shewit Yonas",
-    "Currently": "Mechanical Engineering Student",
-    "Headshot": "headshot.png",
-    "Thumbnail": "headshot.png",
-    "AboutText": "Hi, I’m Shewit Yonas — a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
+"About": {
+  "Name": "Shewit Yonas",
+  "Currently": "Mechanical Engineering Student",
+  "Headshot": "headshot.png",
+  "Thumbnail": "student-logo.webp",
+  "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
   },
-
-  "Contact": {
-    "EMail": "shewityonas367@gmail.com",
-    "Phone": "",
-    "Portfolio": "https://www.github.com",
-    "LinkedIn": "https://linkedin.com/in/shewit-yonas",
-    "GitHub": "https://www.github.com"
-  },
-
-  "Experience": {
-    "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles. I enjoy combining technical ability with communication and project leadership, and I am actively developing my engineering skillset through internships and hands-on projects.",
+"Contact": {
+  "EMail": "shewityonas367@gmail.com",
+  "Phone": "",
+  "Portfolio": "https://www.github.com",
+  "LinkedIn": "https://linkedin.com/in/shewit-yonas",
+  "GitHub": "https://www.github.com"
+},
+"Experience": {
+   "ExperienceText": "I have built experience across engineering design, CAD modeling, environmental work, and academic support roles. I enjoy combining technical ability with communication and project leadership, and I am actively developing my engineering skillset through internships and hands-on projects.",
     "School": "Seattle Pacific University",
     "Major": "Mechanical Engineering",
     "Graduation": "December 2026",
@@ -33,16 +31,14 @@
     "Skills": ["SolidWorks", "MATLAB", "AutoCAD Civil 3D", "Microsoft Office", "Bluebeam"],
     "SkillsText": "My technical strengths include mechanical design, CAD modeling, engineering calculations, MATLAB simulation, and technical documentation. I also have experience working in fast-paced team environments and supporting engineering projects from early concepts to final documentation.",
     "Resume": "Shewit_Yonas_Resume.pdf"
-  },
-
-  "Project1": {
+},
+"Project1": {
     "Title": "SoulUmbra — Semi-Autonomous Solar Energy Robot",
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, motor selection, and early motion control planning. Currently working on CAD model of solar panel deployment system.",
     "GitHubRepo": "",
     "MainImage": "SolUmbra Concept.png",
     "DetailImages": ["Displacement.png", "Interference Detection.png"]
   },
-
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
     "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation. Assembled and integrated with the electrical control system.",
@@ -50,7 +46,6 @@
     "MainImage": "hand prototype.png",
     "DetailImages": ["cuff.png", "hand cad.png"]
   },
-
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
     "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system efficiency.",
@@ -58,7 +53,6 @@
     "MainImage": "matlab code.png",
     "DetailImages": ["matlab code ex 1.png","matlab code ex 2.png"]
   },
-
   "Project4": {
     "Title": "NSBE Leadership — Vice President",
     "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, and represented NSBE on the STEM Student Council. Organized resume workshops, Q&A panels, travel to out of state conferences and cross-club engineering initiatives.",
