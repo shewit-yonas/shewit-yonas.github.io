@@ -34,8 +34,8 @@
     "DetailImages": ["Displacement.png","Interference Detection.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": Prosthetic Hand Prototype",
-    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation,
+    "Title": "Prosthetic Hand Prototype",
+    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation",
     "GitHubRepo": "https://github.com",
     "MainImage": "hand prototype.png",
     "DetailImages": ["cuff.png", "hand cad.png","P2Detail3.png","P2Detail4.png"]
