@@ -48,11 +48,4 @@
     "MainImage": "matlab code.png",
     "DetailImages": ["matlab graph ex 1.png", "matlab code ex 2.png"]
   },
-  "Project4": {
-    "Title": "NSBE Leadership — Vice President",
-    "Desc": "Lead weekly professional development meetings for 20 members, coordinated industry events, organized travel to an out of state conference, and represent NSBE on the board of student leaders of the STEM Building at SPUStudent Council",
-    "GitHubRepo": "",
-    "MainImage": "nsbe at conference.png",
-    "DetailImages": ["nsbe q&a.png"]
-  }
 }
