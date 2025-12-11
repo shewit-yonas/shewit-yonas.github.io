@@ -46,7 +46,7 @@
     "Desc": "In a team of three, I built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. I also developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance.",
     "GitHubRepo": "",
     "MainImage": "matlab code.png",
-    "DetailImages": ["matlab code ex 1.png", "matlab code ex 2.png"]
+    "DetailImages": ["matlab graph ex 1.png", "matlab code ex 2.png"]
   },
   "Project4": {
     "Title": "NSBE Leadership — Vice President",
