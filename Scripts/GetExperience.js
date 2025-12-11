@@ -29,6 +29,7 @@ function updateHTML(configData) {
   document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
 
   document.querySelector("#expLead>h2").innerHTML = "Leadership";
+  document.querySelector("#pfLeadership").innerHTML = configData.Experience.Leadership;
   document.querySelector("#pfLeadershipText").innerHTML = configData.Experience.LeadershipText;
 
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
