@@ -49,11 +49,11 @@
     "MainImage": "matlab code.png",
     "DetailImages": ["matlab graph ex 1.png", "matlab code ex 2.png"]
   },
-    "Project4": {
+  "Project4": {
     "Title": "",
     "Desc": "",
     "GitHubRepo": "",
     "MainImage": "",
-    "DetailImages": [""],
-  },
+    "DetailImages": []
+  }
 }
