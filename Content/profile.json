@@ -29,21 +29,21 @@
 },
 "Project1": {
     "Title": "SolUmbra — Semi-Autonomous Solar Energy Robot",
-    "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection",
+    "Desc": "Co-developing a solar energy collection robot in a team of five. It features a retractable solar panel array and an actuator-driven lifting system. I'm responsible for CAD modeling, solar panel deployment mechanism development, and motor selection",
     "GitHubRepo": "https://github.com",
     "MainImage": "SolUmbra Concept.png",
     "DetailImages": ["Displacement.png","Interference Detection.png"]
   },
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
-    "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation",
+    "Desc": "In a team of five, I designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation",
     "GitHubRepo": "https://github.com",
     "MainImage": "hand prototype.png",
     "DetailImages": ["cuff.png", "hand cad.png"]
   },
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
-    "Desc": "Built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. Developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance.",
+    "Desc": "In a team of three, I built and tested a water-cooled AC prototype using a fan, copper tubing, pump, and ice bath. I also developed a MATLAB model to calculate heat transfer rate, convection coefficients, and system performance.",
     "GitHubRepo": "",
     "MainImage": "matlab code.png",
     "DetailImages": ["matlab code ex 1.png", "matlab code ex 2.png"]
