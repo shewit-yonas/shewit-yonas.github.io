@@ -2,7 +2,7 @@
 "About": {
   "Name": "Shewit Yonas",
   "Currently": "Mechanical Engineering Student",
-  "Headshot": "headshot.png",
+  "Headshot": "headshot2.png",
   "Thumbnail": "student-logo.webp",
   "AboutText": "Hi, I’m Shewit Yonas, a Mechanical Engineering student at Seattle Pacific University with a strong passion for engineering design, problem-solving, and hands-on technical work. I am particularly interested in CAD design, mechanical systems, and engineering analysis, and I enjoy applying engineering principles to real-world challenges.<br><br>With experience working as an engineering intern, an academic tutor, and a student project designer, I have developed a strong foundation in communication, teamwork, and technical design. I thrive in collaborative project environments where I can contribute practical solutions, learn advanced tools, and grow both technically and professionally.<br><br>Outside of academics, I enjoy working on multidisciplinary engineering projects, from prototyping mechanical systems to developing performance models in MATLAB. I am committed to continuous learning, expanding my skillset, and pursuing opportunities that integrate mechanical design, sustainability, and innovation."
 },
@@ -31,14 +31,14 @@
     "Desc": "Co-developing a solar energy collection robot featuring a retractable solar panel array and an actuator-driven lifting system. Responsible for CAD modeling, mechanism development, and motor selection",
     "GitHubRepo": "https://github.com",
     "MainImage": "SolUmbra Concept.png",
-    "DetailImages": ["Displacement.png","Interference Detection.png","P1Detail3.png"]
+    "DetailImages": ["Displacement.png","Interference Detection.png"]
   },
   "Project2": {
     "Title": "Prosthetic Hand Prototype",
     "Desc": "Designed and 3D-printed a functional prosthetic hand prototype including a palm housing, motor mounts, and a full linkage system for natural finger curling and thumb rotation",
     "GitHubRepo": "https://github.com",
     "MainImage": "hand prototype.png",
-    "DetailImages": ["cuff.png", "hand cad.png","P2Detail3.png","P2Detail4.png"]
+    "DetailImages": ["cuff.png", "hand cad.png"]
   },
   "Project3": {
     "Title": "Water-Cooled Air Conditioner Prototype & MATLAB Performance Model",
