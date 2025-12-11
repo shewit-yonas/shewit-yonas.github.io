@@ -28,6 +28,10 @@ function updateHTML(configData) {
   document.querySelector("#pfRole").innerHTML = configData.Experience.Role;
   document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
 
+  document.querySelector("#expEmp>h2").innerHTML = "Leadership";
+  document.querySelector("#pfEmployment").innerHTML = configData.Experience.Leadership;
+  document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.LeadershipText;
+  
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
   document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
@@ -37,11 +41,6 @@ function updateHTML(configData) {
   document.querySelector("#pfResume").onclick = () => {
     let url = "./Content/".concat(configData.Experience.Resume);
     window.open(url, "_blank");
-
-  document.querySelector("#expLeadership>h2").innerHTML = "Leadership";
-  document.querySelector("#pfLeadershipTitle").innerHTML = configData.Leadership.Title;
-  document.querySelector("#pfLeadershipRole").innerHTML = configData.Leadership.Role;
-  document.querySelector("#pfLeadershipText").innerHTML = configData.Leadership.Text;
     
   }
 
