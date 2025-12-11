@@ -37,6 +37,12 @@ function updateHTML(configData) {
   document.querySelector("#pfResume").onclick = () => {
     let url = "./Content/".concat(configData.Experience.Resume);
     window.open(url, "_blank");
+
+  document.querySelector("#expLeadership>h2").innerHTML = "Leadership";
+  document.querySelector("#pfLeadershipTitle").innerHTML = configData.Leadership.Title;
+  document.querySelector("#pfLeadershipRole").innerHTML = configData.Leadership.Role;
+  document.querySelector("#pfLeadershipText").innerHTML = configData.Leadership.Text;
+    
   }
 
 }
